@@ -19,7 +19,7 @@ body {
 }
 
 .container {
-    width: 375px;
+    width: 360px;
     height: 670px;
     margin: 0 auto;
     padding: 0;
@@ -30,7 +30,7 @@ body {
 }
 
 .advice-box {
-    width: 300px;
+    width: 290px;
     height: 250px;
     background-color: var(--DarkGrayishBlue);
     display: flex;
