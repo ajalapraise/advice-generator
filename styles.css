@@ -121,7 +121,7 @@ body {
     color: hsl(228, 45%, 44%);
 }
 
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 600px) {
     body {
         width: 100%;
         margin: 0 auto;
